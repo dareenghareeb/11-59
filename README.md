@@ -3,7 +3,7 @@
 A short motion graphic video about overthinking and mental exhaustion
 
 ---
-## **Team Members**
+### **Team Members**
 
 - **Dareen Hossam**
 - **Malak Mohamed**  
@@ -12,17 +12,17 @@ A short motion graphic video about overthinking and mental exhaustion
 - **Mariam Yasser**
 
 ---
-## **Instructor**
+### **Instructor**
 
 **Galal Badr**
 
 ---
-## **Project Overview**
+### **Project Overview**
 
 **”11:59”** is a short motion graphic project that explores the concept of overthinking and mental exhaustion that often occurs at night, just before sleep. The project focuses on how simple daily interactions can replay repeatedly in a person’s mind, causing stress and emotional fatigue. Through minimal visuals and abstract motion, the video takes the viewer inside the character’s mind as thoughts overlap, repeat, and intensify. The project is presented as a short animated motion graphic video with a clear emotional message and relatable experience.
 
 ---
-## **Project Objectives**
+### **Project Objectives**
 
 - To visually represent overthinking and mental pressure in a simple and relatable way
 - To raise awareness about mental exhaustion caused by excessive thinking
@@ -30,7 +30,7 @@ A short motion graphic video about overthinking and mental exhaustion
 - To deliver a clear emotional message within a short time frame
   
 ---
-## **Project Scope**
+### **Project Scope**
 
 -	Concept development and script writing
 - Character and environment design
@@ -39,12 +39,12 @@ A short motion graphic video about overthinking and mental exhaustion
 - Sound design and final rendering
 
 ---
-## **Final Deliverable:**
+### **Final Deliverable:**
 
 A motion graphic video that visually represents overthinking before sleep, delivered in high-quality digital format.
 
 ---
-## **Project Plan** (5 Weeks)
+### **Project Plan** (5 Weeks)
 
 Week 1 : Concept & Research
 - Finalizing the idea, message, and script
