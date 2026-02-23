@@ -7,7 +7,7 @@ A short motion graphic video about overthinking and mental exhaustion
 
 - **Dareen Hossam**
 - **Malak Mohamed**  
-- **Nour abd el samei Mohamed**
+- **Nour Abd ElSamei Mohamed**
 - **Ali Mubarak**  
 - **Mariam Yasser**
 
