@@ -74,8 +74,7 @@ Week 5: Final Output
 - Final rendering and quality check
 - Preparing the project for presentation and submission
 
-⸻
-
+---
 
 ### **Final Project:**
 https://drive.google.com/drive/folders/1OMrVixtbQXl6T-xyyFJ-cl3xSYLsB6Xi
